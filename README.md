@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **antriksh.codes@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Antrikshcodes](https://github.com/Antrikshcodes)
+- 📄 Know about my experiences [[https://resume-website-two-kohl.vercel.app/](https://resume-website-two-kohl.vercel.app/)]
 
 - ⚡ Fun fact **I build products by day and think I'm a stand-up comedian by night 🎤**
 
