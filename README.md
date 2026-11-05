@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ordersheild AI](https://ordershield-tawny.vercel.app/)
 
-- 🌱 I’m currently learning **Backend Development, Databases & DSA**
+- 🌱 I’m currently learning **Backend Development, Databases & DSA, Robotics**
 
 - 👯 I’m looking to collaborate on [Open Source AI & Developer Tools](https://github.com/Antrikshcodes)
 
